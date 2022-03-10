@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: iutdijon.cryptomessengerclient.modele.protocoles.GenerateurCleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+iutdijon.cryptomessengerclient.modele.protocoles.GenerateurCleTest.testGerererCleTransposition()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: org.junit.jupiter.api.AfterEach
+	at iutdijon.cryptomessengerclient.modele.protocoles.GenerateurCleTest.testGerererCleTransposition(GenerateurCleTest.java:19)
+

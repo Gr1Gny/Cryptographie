@@ -1,0 +1,4 @@
+iutdijon\cryptomessengerclient\modele\protocoles\GenerateurCleTest.class
+iutdijon\cryptomessengerclient\modele\protocoles\realisations\TranspositionRemplissageTableauTest.class
+iutdijon\cryptomessengerclient\modele\protocoles\realisations\TranspositionBourrageTest.class
+iutdijon\cryptomessengerclient\modele\protocoles\realisations\TrieListeCoupleTest.class

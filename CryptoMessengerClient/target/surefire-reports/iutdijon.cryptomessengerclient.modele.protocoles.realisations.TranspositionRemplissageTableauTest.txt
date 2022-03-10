@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: iutdijon.cryptomessengerclient.modele.protocoles.realisations.TranspositionRemplissageTableauTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec <<< FAILURE!
+iutdijon.cryptomessengerclient.modele.protocoles.realisations.TranspositionRemplissageTableauTest.testRemplirTableauChiffrement()  Time elapsed: 0.017 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: array contents differ at index [5][3], expected: <x> but was: <X>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:38)
+	at org.junit.jupiter.api.AssertArrayEquals.failArraysNotEqual(AssertArrayEquals.java:432)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:196)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayElementsEqual(AssertArrayEquals.java:373)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:349)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:162)
+	at org.junit.jupiter.api.AssertArrayEquals.assertArrayEquals(AssertArrayEquals.java:158)
+	at org.junit.jupiter.api.Assertions.assertArrayEquals(Assertions.java:819)
+	at iutdijon.cryptomessengerclient.modele.protocoles.realisations.TranspositionRemplissageTableauTest.testRemplirTableauChiffrement(TranspositionRemplissageTableauTest.java:40)
+
